@@ -1,0 +1,3 @@
+graft project493
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  project493/jupy *
